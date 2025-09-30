@@ -1,8 +1,6 @@
 # Daily Motivational Telegram Bot
 
-**Internship Project – BlockseBlock**  
-**Student:** [Your Name]  
-**Duration:** [Start Date] – [End Date]  
+
 
 ---
 
@@ -41,3 +39,4 @@ The main goal of this project is to demonstrate a real-world implementation of *
 ```bash
 git clone https://github.com/yourusername/daily-motivational-bot.git
 cd daily-motivational-bot
+
